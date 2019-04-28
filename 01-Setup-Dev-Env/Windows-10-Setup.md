@@ -1,6 +1,6 @@
 # Installing ML-Agents Toolkit for Windows
 
-The ML-Agents toolkit supports Windows 10. While it might be possible to run the
+The ML-Agents toolkit supports Windows 10. While it might be possible to run the 
 ML-Agents toolkit using other versions of Windows, it has not been tested on
 other versions. Furthermore, the ML-Agents toolkit has not been tested on a
 Windows VM such as Bootcamp or Parallels.
